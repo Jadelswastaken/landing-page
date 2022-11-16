@@ -16,7 +16,8 @@ body {
     align-items: center;
     width: 66vw;
     margin: 0;
-    padding: 50px;
+    padding: 64px;
+
   }
   .space {
     display: flex;
@@ -36,7 +37,7 @@ body {
     font-size:32px;
   }
   .hero {
-    font-size: 48px;
+    font-size: 36px;
     color: #F9FAF8;
   }
   .sub-hero, .links {
